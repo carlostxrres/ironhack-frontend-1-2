@@ -1,3 +1,8 @@
+section,
+footer {
+    padding: 4rem 8rem;
+}
+
 .header h1,
 #general-information h3 {
     margin: 0;
